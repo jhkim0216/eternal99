@@ -3,14 +3,15 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=eternal99)](https://github.com/eternal99/github-readme-stats)
 
 <h3 align="center">🛠Tech Stack🛠</h3>
-<p align="center">🌱 I’m currently learning 🌱</p>
-<p align="center">
-<img src="https://img.shields.io/badge/-Java-007396?style=flat-round&logo=Java&logoColor=white"/></a>&nbsp 
-</p>
 <p align="center">Techs that I've used at least once</p>
 <p align="center">
+<img src="https://img.shields.io/badge/-Java-007396?style=flat-round&logo=Java&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-round&logo=c&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-round&logo=cplusplus&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-round&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-round&logo=React&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-round&logo=Node.js&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-round&logo=Firebase&logoColor=white"/></a>&nbsp 
 </p>
 
 <!--
