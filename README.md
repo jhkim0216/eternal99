@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&cu&height=300&section=header&text=ETERNAL&uuufontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&cu&height=300&section=header&text=jkkim0216&uuufontSize=90)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=eternal99)](https://github.com/eternal99/github-readme-stats)
 
